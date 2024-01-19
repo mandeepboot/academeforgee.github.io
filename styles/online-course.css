@@ -1,3 +1,15 @@
+#d1{
+	 border: none;
+  background-color:#4d2c5e ;
+  cursor: pointer;
+  font-family: cursive;
+  font-size: larger;
+  color: white;
+  border-radius: 10px;
+  border-width: 200px;
+}
+  
+
 #b2,#b1{
   border: none;
   background-color:#4d2c5e ;
