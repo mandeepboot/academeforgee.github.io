@@ -1,0 +1,2769 @@
+#b2,#b1{
+  border: none;
+  background-color:#4d2c5e ;
+  cursor: pointer;
+  font-family: cursive;
+  font-size: larger;
+  color: white;
+  border-radius: 10px;
+  border-width: 200px;
+  
+}
+#b3,#b4,#b5{
+  cursor: pointer;
+  
+}
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.online-course-R4Y {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.online-course-R4Y .auto-group-rhnl-6wN {
+  width: 100%;
+  height: 122.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .rectangle-1-oqn {
+  width: 192rem;
+  height: 107.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #fdf8ee;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-45-wBJ {
+  box-sizing: border-box;
+  padding: 0.5rem 1.1rem 0.5rem 2.1rem;
+  width: 56.8rem;
+  height: 7.9rem;
+  position: absolute;
+  left: 19.5rem;
+  top: 69.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 9.6rem;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-45-wBJ .magnifying-glass-1-cHS {
+  margin: 0.1rem 1.2rem 0rem 0rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-45-wBJ .search-for-a-location-7jz {
+  margin: 0.1rem 13.9rem 0rem 0rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #0f335e;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-45-wBJ .group-340-zon {
+  width: 15.8rem;
+  height: 100%;
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #4d2c5e;
+  border-radius: 9.6rem;
+  flex-shrink: 0;
+  cursor: pointer;
+  border: none;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .ellipse-1-edS {
+  width: 40.8rem;
+  height: 40.8rem;
+  position: absolute;
+  left: 135.5rem;
+  top: 24.2rem;
+  border: solid 5rem rgba(242, 201, 76, 0.200000003);
+  box-sizing: border-box;
+  border-radius: 20.4rem;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .objects-9KJ {
+  width: 89.0138rem;
+  height: 54.3951rem;
+  position: absolute;
+  left: 83.0318rem;
+  top: 31.5833rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-38-GPv {
+  width: 55.1rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 92.4rem;
+  top: 7rem;
+  display: flex;
+  align-items: center;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-38-GPv .home-z52 {
+  margin-right: 4.5rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #1c1c1c;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-38-GPv .about-us-KNC {
+  margin-right: 4.5rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #1c1c1c;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-38-GPv .courses-fBA {
+  margin-right: 4.5rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #1c1c1c;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-38-GPv .our-service-aov {
+  margin-right: 4.4rem;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #1c1c1c;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-38-GPv .contact-us-vct {
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #1c1c1c;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-39-Fv4 {
+  width: 19.1rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 153.4rem;
+  top: 4.7rem;
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #4d2c5e;
+  border-radius: 21.8rem;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-326-Xcg {
+  width: 58.3rem;
+  height: 29.8rem;
+  position: absolute;
+  left: 19.4rem;
+  top: 34.8rem;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-326-Xcg .the-smart-choice-for-future-rex {
+  margin-bottom: 0.8rem;
+  max-width: 54.6rem;
+  font-size: 6.9rem;
+  font-weight: 800;
+  line-height: 1.3500000221;
+  color: #040c26;
+  font-family: Roboto, 'Source Sans Pro';
+}
+
+
+.online-course-R4Y .auto-group-rhnl-6wN .group-326-Xcg .the-smart-choice-for-future-rex .the-smart-choice-for-future-rex-sub-1 {
+  font-size: 6.9rem;
+  font-weight: 800;
+  line-height: 1.3500000221;
+  color: #ff7426;
+  font-family: Roboto, 'Source Sans Pro';
+}
+
+.online-course-R4Y .auto-group-rhnl-6wN .group-326-Xcg .the-smart-choice-for-future-rex .the-smart-choice-for-future-rex-sub-3 {
+  font-size: 6.9rem;
+  font-weight: 800;
+  line-height: 1.3500000221;
+  color: #ff7426;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-326-Xcg .elearn-is-a-global-training-provider-based-across-the-uk-that-specialises-in-accredited-and-bespoke-training-courses-we-crush-the-Fyv {
+  max-width: 58.3rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.7100000381;
+  color: #8a8a8a;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-327-H9v {
+  width: 178.4713rem;
+  height: 75.613rem;
+  position: absolute;
+  left: 8.3rem;
+  top: 17.4rem;
+  display: flex;
+  align-items: flex-start;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-327-H9v .auto-group-dfws-9C8 {
+  margin: 6.5rem 0.004rem 2.754rem 0rem;
+  height: calc(100% - 9.2539rem);
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-327-H9v .auto-group-dfws-9C8 .vector-EUU {
+  margin-bottom: 50.404rem;
+  width: 4.296rem;
+  height: 4.296rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-327-H9v .auto-group-dfws-9C8 .group-Nag {
+  margin-right: 1.5989rem;
+  width: 8.6971rem;
+  height: 11.6591rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-327-H9v .vector-7HN {
+  margin: 11.2rem 25.082rem 0rem 0rem;
+  width: 1.718rem;
+  height: 1.718rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-327-H9v .group-EMz {
+  margin: 60.8rem 11.774rem 0rem 0rem;
+  width: 12.0256rem;
+  height: 12.809rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-327-H9v .group-9jr {
+  margin: 2.2rem 28.288rem 0rem 0rem;
+  width: 8.6124rem;
+  height: 13.2527rem;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-NH2.png');
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-327-H9v .group-9jr .vector-3qE {
+  width: 1.438rem;
+  height: 0.695rem;
+  position: absolute;
+  left: 2.126rem;
+  top: 1.4234rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-327-H9v .group-9jr .vector-aaG {
+  width: 1.439rem;
+  height: 0.696rem;
+  position: absolute;
+  left: 3.454rem;
+  top: 4.1714rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-327-H9v .group-9jr .vector-KGx {
+  width: 1.439rem;
+  height: 0.696rem;
+  position: absolute;
+  left: 4.783rem;
+  top: 6.9194rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-327-H9v .group-9jr .vector-eKE {
+  width: 1.438rem;
+  height: 0.695rem;
+  position: absolute;
+  left: 6.112rem;
+  top: 9.6684rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-327-H9v .group-9jr .vector-zP6 {
+  width: 0.719rem;
+  height: 0.347rem;
+  position: absolute;
+  left: 3.285rem;
+  top: 2.3334rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-327-H9v .group-9jr .vector-jba {
+  width: 0.719rem;
+  height: 0.348rem;
+  position: absolute;
+  left: 3.729rem;
+  top: 3.2524rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-327-H9v .group-9jr .vector-UZA {
+  width: 0.719rem;
+  height: 0.347rem;
+  position: absolute;
+  left: 4.616rem;
+  top: 5.0864rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-327-H9v .group-9jr .vector-Dme {
+  width: 0.719rem;
+  height: 0.348rem;
+  position: absolute;
+  left: 5.06rem;
+  top: 6.0054rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-327-H9v .group-9jr .vector-NPe {
+  width: 0.719rem;
+  height: 0.347rem;
+  position: absolute;
+  left: 5.947rem;
+  top: 7.8394rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-327-H9v .group-9jr .vector-Jo6 {
+  width: 0.72rem;
+  height: 0.348rem;
+  position: absolute;
+  left: 6.391rem;
+  top: 8.7584rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-327-H9v .group-1xQ {
+  margin: 7.1rem 5.895rem 0rem 0rem;
+  width: 10.2046rem;
+  height: 8.9609rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-327-H9v .group-9oi {
+  margin: 68.1rem 3.199rem 0rem 0rem;
+  width: 7.6015rem;
+  height: 7.513rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-327-H9v .group-tFW {
+  margin-right: 32.5588rem;
+  width: 8.966rem;
+  height: 9.172rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-327-H9v .auto-group-bxax-RmE {
+  margin-top: 2.18rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-327-H9v .auto-group-bxax-RmE .group-NAg {
+  margin: 0rem 0rem 26.473rem 0.648rem;
+  width: 7.856rem;
+  height: 8.647rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-327-H9v .auto-group-bxax-RmE .group-VWC {
+  margin: 0rem 0rem 9.629rem 4.575rem;
+  width: 7.6712rem;
+  height: 7.6705rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-327-H9v .auto-group-bxax-RmE .group-Dwz {
+  margin-right: 2.895rem;
+  width: 9.3515rem;
+  height: 11.5463rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-328-ZFA {
+  width: 18.5rem;
+  height: 5.1848rem;
+  position: absolute;
+  left: 19.6rem;
+  top: 5.4rem;
+  display: flex;
+  align-items: center;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-328-ZFA .group-sme {
+  margin-right: 0.7205rem;
+  width: 5.8795rem;
+  height: 5.1848rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-328-ZFA .book-store-pgt {
+  margin-top: 0.1152rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3500000636;
+  color: #1c1c1c;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-333-k4k {
+  box-sizing: border-box;
+  padding: 7rem 3.9rem 7rem 3.5rem;
+  width: 143.2rem;
+  height: 27.7rem;
+  position: absolute;
+  left: 24.4rem;
+  top: 94.8rem;
+  display: flex;
+  column-gap: 4.9rem;
+  align-items: center;
+  background-color: #4d2c5e;
+  border-radius: 1.4rem;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-333-k4k .group-330-cse {
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  border-radius: 2.3rem;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-333-k4k .group-330-cse .auto-group-7qat-BQx {
+  margin: 0rem 2.5rem 3.6rem 0rem;
+  box-sizing: border-box;
+  padding: 2.4rem 2.4rem 2.3rem 2.4rem;
+  background-color: rgba(255, 255, 255, 0.200000003);
+  border-radius: 2.3rem;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-333-k4k .group-330-cse .auto-group-7qat-BQx .online-test-1-6Xv {
+  width: 5.4rem;
+  height: 5.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-333-k4k .group-330-cse .group-329-Q2p {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-333-k4k .group-330-cse .group-329-Q2p .learn-the-latest-skills-A1z {
+  margin-bottom: 1.6rem;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-333-k4k .group-330-cse .group-329-Q2p .contrary-to-popular-belief-lorem-ipsum-is-not-simply-random-text-it-has-roots-in-a-bc-making-it-over-2000-years-old-5Rn {
+  max-width: 29.3rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.8666666667;
+  color: rgba(255, 255, 255, 0.6000000238);
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-333-k4k .group-331-vSQ {
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  border-radius: 2.3rem;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-333-k4k .group-331-vSQ .auto-group-xhhn-UTv {
+  margin: 0rem 2.5rem 3.6rem 0rem;
+  box-sizing: border-box;
+  padding: 2rem 2rem 1.9rem 2rem;
+  background-color: rgba(255, 255, 255, 0.200000003);
+  border-radius: 2.3rem;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-333-k4k .group-331-vSQ .auto-group-xhhn-UTv .exam-1-njW {
+  width: 6.2rem;
+  height: 6.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-333-k4k .group-331-vSQ .group-329-7Wt {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-333-k4k .group-331-vSQ .group-329-7Wt .get-ready-for-a-career-UcL {
+  margin-bottom: 1.6rem;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-333-k4k .group-331-vSQ .group-329-7Wt .contrary-to-popular-belief-lorem-ipsum-is-not-simply-random-text-it-has-roots-in-a-bc-making-it-over-2000-years-old-Qkt {
+  max-width: 29.3rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.8666666667;
+  color: rgba(255, 255, 255, 0.6000000238);
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-333-k4k .group-332-UVr {
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  border-radius: 2.3rem;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-333-k4k .group-332-UVr .auto-group-wama-EE8 {
+  margin: 0rem 2.5rem 3.6rem 0rem;
+  box-sizing: border-box;
+  padding: 2.1rem 2.1rem 2rem 2.1rem;
+  background-color: rgba(255, 255, 255, 0.200000003);
+  border-radius: 2.3rem;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-333-k4k .group-332-UVr .auto-group-wama-EE8 .certification-1-9bz {
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-333-k4k .group-332-UVr .group-329-UeG {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-333-k4k .group-332-UVr .group-329-UeG .earn-a-certificate-Sb6 {
+  margin-bottom: 1.6rem;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-rhnl-6wN .group-333-k4k .group-332-UVr .group-329-UeG .contrary-to-popular-belief-lorem-ipsum-is-not-simply-random-text-it-has-roots-in-a-bc-making-it-over-2000-years-old-Nje {
+  max-width: 29.3rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  line-height: 1.8666666667;
+  color: rgba(255, 255, 255, 0.6000000238);
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ {
+  box-sizing: border-box;
+  padding: 1.624rem 2.296rem 12.2rem 8.1rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-ceny-9dv {
+  margin-bottom: 4.49rem;
+  width: 100%;
+  height: 16.5858rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-ceny-9dv .casual-life-3d-idea-lamp-1-tLc {
+  margin-right: 48.436rem;
+  width: 14.164rem;
+  height: 13.51rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-ceny-9dv .auto-group-5lhj-CcC {
+  margin: 4.676rem 51.8rem 2.01rem 0rem;
+  width: 50.4rem;
+  height: calc(100% - 6.6858rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-ceny-9dv .auto-group-5lhj-CcC .our-tracks-7z4 {
+  width: 24.5rem;
+  height: 7rem;
+  position: absolute;
+  left: 12.6rem;
+  top: 0;
+  font-size: 5rem;
+  font-weight: 600;
+  line-height: 1.4;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-ceny-9dv .auto-group-5lhj-CcC .lorem-ipsum-is-simply-dummy-text-of-the-printing-DnC {
+  width: 50.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 6.9rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #8a8a8a;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-ceny-9dv .group-WFW {
+  margin-bottom: 0.324rem;
+  width: 16.8036rem;
+  height: 16.2619rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL {
+  margin: 0rem 17.204rem 0rem 11.4rem;
+  width: calc(100% - 28.6036rem);
+  height: 48.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi {
+  box-sizing: border-box;
+  padding-right: 3rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .auto-group-amjk-Wep {
+  margin-right: 3rem;
+  width: 49rem;
+  height: 48.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .auto-group-amjk-Wep .group-334-4AY {
+  width: 49rem;
+  height: 45.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 2.5rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 1.4rem;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .auto-group-amjk-Wep .group-334-4AY .group-337-PTi {
+  width: 46.4rem;
+  height: 23.8rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 1.4rem;
+  background-color: #b17373;
+  border-radius: 1.4rem;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .auto-group-amjk-Wep .group-334-4AY .group-337-PTi .auto-group-afxr-7Pi {
+  width: 46.4rem;
+  height: 23.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .auto-group-amjk-Wep .group-334-4AY .ui-ux-design-for-beginners-dsr {
+  width: 26.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 29.3rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .auto-group-amjk-Wep .group-334-4AY .item-98-L1a {
+  width: 3.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 32.3rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ff7426;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .auto-group-amjk-Wep .group-334-4AY .auto-group-zetl-2uz {
+  width: 46.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 26.6rem;
+  display: flex;
+  align-items: center;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .auto-group-amjk-Wep .group-334-4AY .auto-group-zetl-2uz .ui-ux-design-Zf2 {
+  margin-right: 27.1rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #acacac;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .auto-group-amjk-Wep .group-334-4AY .auto-group-zetl-2uz .group-345-Voa {
+  margin: 0.4rem 0;
+  box-sizing: border-box;
+  padding: 0.035rem 0rem 0.035rem 0rem;
+  height: calc(100% - 0.8rem);
+  display: flex;
+  column-gap: 0.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .auto-group-amjk-Wep .group-334-4AY .auto-group-zetl-2uz .group-345-Voa .star-svgrepo-com-1-5-nng {
+  width: 1.6rem;
+  height: 1.5301rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .auto-group-amjk-Wep .group-334-4AY .auto-group-zetl-2uz .group-345-Voa .star-svgrepo-com-1-4-XEU {
+  width: 1.6rem;
+  height: 1.5301rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .auto-group-amjk-Wep .group-334-4AY .auto-group-zetl-2uz .group-345-Voa .star-svgrepo-com-1-3-Ttp {
+  width: 1.6rem;
+  height: 1.5301rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .auto-group-amjk-Wep .group-334-4AY .auto-group-zetl-2uz .group-345-Voa .star-svgrepo-com-1-2-cWp {
+  width: 1.6rem;
+  height: 1.5301rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .auto-group-amjk-Wep .group-334-4AY .auto-group-zetl-2uz .group-345-Voa .star-svgrepo-com-1-1-xag {
+  width: 1.6rem;
+  height: 1.5301rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .auto-group-amjk-Wep .group-334-4AY .group-344-hYG {
+  width: 37.5rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 37.8rem;
+  display: flex;
+  column-gap: 1.4rem;
+  align-items: center;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .auto-group-amjk-Wep .group-334-4AY .group-344-hYG .group-343-cv8 {
+  margin: 0.2rem 0;
+  box-sizing: border-box;
+  padding-left: 0rem;
+  height: calc(100% - 0.4rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .auto-group-amjk-Wep .group-334-4AY .group-344-hYG .group-343-cv8 .time-svgrepo-com-1-Mcp {
+  margin: 0.1rem 0.6rem 0rem 0rem;
+  width: 1.9rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .auto-group-amjk-Wep .group-334-4AY .group-344-hYG .group-343-cv8 .hr-30min-UxL {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #acacac;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .auto-group-amjk-Wep .group-334-4AY .group-344-hYG .group-342-coe {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.2rem 0.2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .auto-group-amjk-Wep .group-334-4AY .group-344-hYG .group-342-coe .video-svgrepo-com-1-kex {
+  margin-right: 0.95rem;
+  width: 2.35rem;
+  height: 1.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .auto-group-amjk-Wep .group-334-4AY .group-344-hYG .group-342-coe .courses-5x8 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #acacac;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .auto-group-amjk-Wep .group-334-4AY .group-344-hYG .group-341-pui {
+  margin: 0.2rem 0;
+  box-sizing: border-box;
+  padding-left: 0.0387rem;
+  height: calc(100% - 0.4rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .auto-group-amjk-Wep .group-334-4AY .group-344-hYG .group-341-pui .download-svgrepo-com-1-Aig {
+  margin: 0.011rem 0.939rem 0rem 0rem;
+  width: 1.7227rem;
+  height: 1.7118rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .auto-group-amjk-Wep .group-334-4AY .group-344-hYG .group-341-pui .sales-66Y {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #acacac;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .auto-group-amjk-Wep .group-334-4AY .line-1-poE {
+  width: 46.4rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 36.2rem;
+  background-color: #acacac;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .auto-group-amjk-Wep .group-340-JiQ {
+  width: 20.7rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 14.2rem;
+  top: 43rem;
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff7426;
+  border-radius: 9.6rem;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .group-335-yJk {
+  width: 49rem;
+  height: 48.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .group-335-yJk .rectangle-42-twW {
+  width: 49rem;
+  height: 45.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 2.5rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 1.4rem;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .group-335-yJk .group-338-RAk {
+  width: 46.4rem;
+  height: 23.8rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 1.4rem;
+  background-color: #b17373;
+  border-radius: 1.4rem;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .group-335-yJk .group-338-RAk .auto-group-18te-kip {
+  width: 46.4rem;
+  height: 23.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .group-335-yJk .ui-ux-design-for-beginners-4Di {
+  width: 26.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 29.3rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .group-335-yJk .item-98-qNt {
+  width: 3.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 32.3rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ff7426;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .group-335-yJk .ui-ux-design-8sn {
+  width: 10.5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 26.6rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #acacac;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .group-335-yJk .group-344-r36 {
+  width: 37.5rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 37.8rem;
+  display: flex;
+  column-gap: 1.4rem;
+  align-items: center;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .group-335-yJk .group-344-r36 .group-343-yNc {
+  margin: 0.2rem 0;
+  box-sizing: border-box;
+  padding-left: 0rem;
+  height: calc(100% - 0.4rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .group-335-yJk .group-344-r36 .group-343-yNc .time-svgrepo-com-1-W7e {
+  margin: 0.1rem 0.6rem 0rem 0rem;
+  width: 1.9rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .group-335-yJk .group-344-r36 .group-343-yNc .hr-30min-Qyi {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #acacac;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .group-335-yJk .group-344-r36 .group-342-9RW {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.2rem 0.2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .group-335-yJk .group-344-r36 .group-342-9RW .video-svgrepo-com-1-HGp {
+  margin-right: 0.95rem;
+  width: 2.35rem;
+  height: 1.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .group-335-yJk .group-344-r36 .group-342-9RW .courses-1ic {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #acacac;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .group-335-yJk .group-344-r36 .group-341-9pp {
+  margin: 0.2rem 0;
+  box-sizing: border-box;
+  padding-left: 0.0387rem;
+  height: calc(100% - 0.4rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .group-335-yJk .group-344-r36 .group-341-9pp .download-svgrepo-com-1-hLY {
+  margin: 0.011rem 0.939rem 0rem 0rem;
+  width: 1.7227rem;
+  height: 1.7118rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .group-335-yJk .group-344-r36 .group-341-9pp .sales-E5a {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #acacac;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .group-335-yJk .group-340-xnG {
+  width: 20.7rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 14.3rem;
+  top: 43rem;
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff7426;
+  border-radius: 9.6rem;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .group-335-yJk .line-1-EUt {
+  width: 46.4rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 36.2rem;
+  background-color: #acacac;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .group-335-yJk .group-345-a2x {
+  box-sizing: border-box;
+  padding: 0.035rem 0rem 0.035rem 0rem;
+  width: 8.8rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 39rem;
+  top: 27rem;
+  display: flex;
+  column-gap: 0.2rem;
+  align-items: center;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .group-335-yJk .group-345-a2x .star-svgrepo-com-1-5-TMe {
+  width: 1.6rem;
+  height: 1.5301rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .group-335-yJk .group-345-a2x .star-svgrepo-com-1-4-bTr {
+  width: 1.6rem;
+  height: 1.5301rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .group-335-yJk .group-345-a2x .star-svgrepo-com-1-3-w1v {
+  width: 1.6rem;
+  height: 1.5301rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .group-335-yJk .group-345-a2x .star-svgrepo-com-1-2-gEQ {
+  width: 1.6rem;
+  height: 1.5301rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .auto-group-lfs4-NHi .group-335-yJk .group-345-a2x .star-svgrepo-com-1-1-EFv {
+  width: 1.6rem;
+  height: 1.5301rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .group-336-NN8 {
+  width: 49rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .group-336-NN8 .rectangle-42-usr {
+  width: 49rem;
+  height: 45.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 2.5rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 1.4rem;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .group-336-NN8 .group-339-2ha {
+  width: 46.4rem;
+  height: 23.8rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 1.4rem;
+  background-color: #b17373;
+  border-radius: 1.4rem;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .group-336-NN8 .group-339-2ha .auto-group-e17i-Yvp {
+  width: 46.4rem;
+  height: 23.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .group-336-NN8 .ui-ux-design-for-beginners-V5N {
+  width: 26.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 29.7rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .group-336-NN8 .item-98-PAk {
+  width: 3.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 32.7rem;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ff7426;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .group-336-NN8 .ui-ux-design-hBS {
+  width: 10.5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 27rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #acacac;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .group-336-NN8 .group-344-1hv {
+  width: 37.5rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 38.2rem;
+  display: flex;
+  column-gap: 1.4rem;
+  align-items: center;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .group-336-NN8 .group-344-1hv .group-343-8nY {
+  margin: 0.2rem 0;
+  box-sizing: border-box;
+  padding-left: 0rem;
+  height: calc(100% - 0.4rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .group-336-NN8 .group-344-1hv .group-343-8nY .time-svgrepo-com-1-5Bz {
+  margin: 0.1rem 0.6rem 0rem 0rem;
+  width: 1.9rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .group-336-NN8 .group-344-1hv .group-343-8nY .hr-30min-PyN {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #acacac;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .group-336-NN8 .group-344-1hv .group-342-YLU {
+  box-sizing: border-box;
+  padding: 0.2rem 0rem 0.2rem 0.2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .group-336-NN8 .group-344-1hv .group-342-YLU .video-svgrepo-com-1-gBn {
+  margin-right: 0.95rem;
+  width: 2.35rem;
+  height: 1.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .group-336-NN8 .group-344-1hv .group-342-YLU .courses-DSc {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #acacac;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .group-336-NN8 .group-344-1hv .group-341-A6x {
+  margin: 0.2rem 0;
+  box-sizing: border-box;
+  padding-left: 0.0387rem;
+  height: calc(100% - 0.4rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .group-336-NN8 .group-344-1hv .group-341-A6x .download-svgrepo-com-1-hcg {
+  margin: 0.011rem 0.939rem 0rem 0rem;
+  width: 1.7227rem;
+  height: 1.7118rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .group-336-NN8 .group-344-1hv .group-341-A6x .sales-E6p {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #acacac;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .group-336-NN8 .group-340-m6k {
+  width: 20.7rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 14.2rem;
+  top: 43.4rem;
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff7426;
+  border-radius: 9.6rem;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .group-336-NN8 .line-1-pqi {
+  width: 46.4rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 1.3rem;
+  top: 36.6rem;
+  background-color: #acacac;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .group-336-NN8 .group-345-N6Y {
+  box-sizing: border-box;
+  padding: 0.035rem 0rem 0.035rem 0rem;
+  width: 8.8rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 38.9rem;
+  top: 27.4rem;
+  display: flex;
+  column-gap: 0.2rem;
+  align-items: center;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .group-336-NN8 .group-345-N6Y .star-svgrepo-com-1-5-rGc {
+  width: 1.6rem;
+  height: 1.5301rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .group-336-NN8 .group-345-N6Y .star-svgrepo-com-1-4-PnL {
+  width: 1.6rem;
+  height: 1.5301rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .group-336-NN8 .group-345-N6Y .star-svgrepo-com-1-3-8V2 {
+  width: 1.6rem;
+  height: 1.5301rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .group-336-NN8 .group-345-N6Y .star-svgrepo-com-1-2-Gr8 {
+  width: 1.6rem;
+  height: 1.5301rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-kvxw-2ZJ .auto-group-e2q2-3WL .group-336-NN8 .group-345-N6Y .star-svgrepo-com-1-1-Rj2 {
+  width: 1.6rem;
+  height: 1.5301rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-fwtg-xix {
+  margin-bottom: 5.8908rem;
+  width: 100%;
+  height: 70.7092rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-fwtg-xix .rectangle-2-Tvc {
+  width: 192rem;
+  height: 63.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #fdf8ee;
+}
+.online-course-R4Y .auto-group-fwtg-xix .objects-cYc {
+  width: 51.6953rem;
+  height: 64.4092rem;
+  position: absolute;
+  left: 22.4rem;
+  top: 6.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-fwtg-xix .premium-learning-experience-Yx4 {
+  width: 56.7rem;
+  height: 18.7rem;
+  position: absolute;
+  left: 88.7rem;
+  top: 7.9rem;
+  font-size: 6.9rem;
+  font-weight: 800;
+  line-height: 1.3500000221;
+  color: #040c26;
+  font-family: Roboto, 'Source Sans Pro';
+}
+
+
+.online-course-R4Y .auto-group-fwtg-xix .premium-learning-experience-Yx4 .premium-learning-experience-Yx4-sub-1 {
+  font-size: 6.9rem;
+  font-weight: 800;
+  line-height: 1.3500000221;
+  color: #ff7426;
+  font-family: Roboto, 'Source Sans Pro';
+}
+
+.online-course-R4Y .auto-group-fwtg-xix .group-346-Dwi {
+  box-sizing: border-box;
+  padding-right: 0.4rem;
+  width: 71.1rem;
+  height: 10.2rem;
+  position: absolute;
+  left: 88.7rem;
+  top: 31.1rem;
+  display: flex;
+  align-items: flex-end;
+  border-radius: 2.3rem;
+}
+.online-course-R4Y .auto-group-fwtg-xix .group-346-Dwi .auto-group-bgwp-jfA {
+  margin: 0rem 2.3rem 0.1rem 0rem;
+  box-sizing: border-box;
+  padding: 2.5rem 2.5rem 2.4rem 2.5rem;
+  background-color: #4d2c5e;
+  border-radius: 2.3rem;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-fwtg-xix .group-346-Dwi .auto-group-bgwp-jfA .hearts-1-FdW {
+  width: 5.2rem;
+  height: 5.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-fwtg-xix .group-346-Dwi .auto-group-u2qa-yJc {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-fwtg-xix .group-346-Dwi .auto-group-u2qa-yJc .easily-accessible-8SQ {
+  margin-bottom: 0.2rem;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.7100001017;
+  color: #040c26;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-fwtg-xix .group-346-Dwi .auto-group-u2qa-yJc .learning-will-fell-very-comfortable-with-courslab-4qr {
+  font-size: 2.6rem;
+  font-weight: 500;
+  line-height: 1.7099999648;
+  color: #8a8a8a;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-fwtg-xix .group-347-BQg {
+  box-sizing: border-box;
+  padding-right: 0.4rem;
+  width: 71.1rem;
+  height: 10.2rem;
+  position: absolute;
+  left: 88.7rem;
+  top: 44.6rem;
+  display: flex;
+  align-items: flex-end;
+  border-radius: 2.3rem;
+}
+.online-course-R4Y .auto-group-fwtg-xix .group-347-BQg .auto-group-pjhj-HCp {
+  margin: 0rem 2.3rem 0.1rem 0rem;
+  box-sizing: border-box;
+  padding: 2.5rem 2.5rem 2.4rem 2.5rem;
+  background-color: #4d2c5e;
+  border-radius: 2.3rem;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-fwtg-xix .group-347-BQg .auto-group-pjhj-HCp .jigsaw-1-bjJ {
+  width: 5.2rem;
+  height: 5.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-fwtg-xix .group-347-BQg .auto-group-wf7r-8jE {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-fwtg-xix .group-347-BQg .auto-group-wf7r-8jE .fun-learning-expe-hGY {
+  margin-bottom: 0.2rem;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.7100001017;
+  color: #040c26;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-fwtg-xix .group-347-BQg .auto-group-wf7r-8jE .learning-will-fell-very-comfortable-with-courslab-2pc {
+  font-size: 2.6rem;
+  font-weight: 500;
+  line-height: 1.7099999648;
+  color: #8a8a8a;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-fwtg-xix .group-xCU {
+  width: 7.6015rem;
+  height: 7.513rem;
+  position: absolute;
+  left: 69.4rem;
+  top: 53.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-fwtg-xix .group-HVe {
+  width: 8.966rem;
+  height: 9.172rem;
+  position: absolute;
+  left: 26.1rem;
+  top: 6.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-fwtg-xix .group-pEg {
+  width: 10.2046rem;
+  height: 8.9609rem;
+  position: absolute;
+  left: 11.5rem;
+  top: 23.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-fwtg-xix .group-MVW {
+  width: 7.856rem;
+  height: 8.647rem;
+  position: absolute;
+  left: 68.7rem;
+  top: 8.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-fwtg-xix .group-tkL {
+  width: 9.3515rem;
+  height: 11.5462rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 47rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-fwtg-xix .group-p8C {
+  width: 7.6712rem;
+  height: 7.6705rem;
+  position: absolute;
+  left: 72.8rem;
+  top: 39.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-pjnc-9RN {
+  margin-bottom: 15.9rem;
+  width: 100%;
+  height: 118rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-349-GF6 {
+  box-sizing: border-box;
+  padding: 1.4rem 1.3rem 1.9rem 1.3rem;
+  width: 49rem;
+  height: 45.7rem;
+  position: absolute;
+  left: 19.5rem;
+  top: 72.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 2.5rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 1.4rem;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-349-GF6 .group-337-YiQ {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  background-color: #b17373;
+  border-radius: 1.4rem;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-349-GF6 .group-337-YiQ .auto-group-ftsq-Jha {
+  width: 46.4rem;
+  height: 23.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-349-GF6 .group-354-RnC {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-349-GF6 .group-354-RnC .auto-group-8w9e-PU8 {
+  box-sizing: border-box;
+  padding-bottom: 1.5rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-349-GF6 .group-354-RnC .auto-group-8w9e-PU8 .auto-group-saag-wEk {
+  margin-bottom: 1.5rem;
+  width: 27.5rem;
+  height: 5.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-349-GF6 .group-354-RnC .auto-group-8w9e-PU8 .auto-group-saag-wEk .matthew-e-mcnatt-5Lx {
+  width: 18.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-349-GF6 .group-354-RnC .auto-group-8w9e-PU8 .auto-group-saag-wEk .professor-george-brown-college-yhE {
+  width: 27.5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 2.9rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #858585;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-349-GF6 .group-354-RnC .auto-group-8w9e-PU8 .ut-enim-ad-minim-veniam-quis-nost-exercitation-ullamco-laboris-nisi-ut-allquip-ex-commodo-snc {
+  max-width: 38.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #acacac;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-349-GF6 .group-354-RnC .auto-group-bxlq-xJG {
+  width: 100%;
+  height: 3.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-349-GF6 .group-354-RnC .auto-group-bxlq-xJG .engineering-physics-uUQ {
+  margin: 0.3rem 19.4rem 0rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ff7426;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-349-GF6 .group-354-RnC .auto-group-bxlq-xJG .group-353-pbN {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-349-GF6 .group-354-RnC .auto-group-bxlq-xJG .group-353-pbN .auto-group-5sya-BRv {
+  margin-right: 1.2rem;
+  box-sizing: border-box;
+  padding: 0.8rem;
+  height: 100%;
+  background-color: #f9f9f9;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-349-GF6 .group-354-RnC .auto-group-bxlq-xJG .group-353-pbN .auto-group-5sya-BRv .instagramlogo2016-1-8c4 {
+  width: 2.2rem;
+  height: 2.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-349-GF6 .group-354-RnC .auto-group-bxlq-xJG .group-353-pbN .auto-group-dqf6-4Ep {
+  box-sizing: border-box;
+  padding: 0.8rem;
+  height: 100%;
+  background-color: #f9f9f9;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-349-GF6 .group-354-RnC .auto-group-bxlq-xJG .group-353-pbN .auto-group-dqf6-4Ep .item-174857-1-1Qx {
+  width: 2.2rem;
+  height: 2.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-350-tUk {
+  box-sizing: border-box;
+  padding: 1.4rem 1.2rem 1.9rem 1.3rem;
+  width: 49rem;
+  height: 45.7rem;
+  position: absolute;
+  left: 71.5rem;
+  top: 72.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 2.5rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 1.4rem;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-350-tUk .group-338-b8G {
+  margin: 0rem 0.1rem 1.5rem 0rem;
+  width: 46.4rem;
+  background-color: #b17373;
+  border-radius: 1.4rem;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-350-tUk .group-338-b8G .auto-group-fl3w-L5r {
+  width: 46.4rem;
+  height: 23.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-350-tUk .group-354-FyW {
+  margin-left: 0.1rem;
+  width: 46.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-350-tUk .group-354-FyW .auto-group-kgds-oEL {
+  box-sizing: border-box;
+  padding-bottom: 1.5rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-350-tUk .group-354-FyW .auto-group-kgds-oEL .auto-group-5va4-Xg8 {
+  margin-bottom: 1.5rem;
+  width: 27.5rem;
+  height: 5.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-350-tUk .group-354-FyW .auto-group-kgds-oEL .auto-group-5va4-Xg8 .tracy-d-wright-ULU {
+  width: 15.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-350-tUk .group-354-FyW .auto-group-kgds-oEL .auto-group-5va4-Xg8 .professor-george-brown-college-nc4 {
+  width: 27.5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 2.9rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #858585;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-350-tUk .group-354-FyW .auto-group-kgds-oEL .ut-enim-ad-minim-veniam-quis-nost-exercitation-ullamco-laboris-nisi-ut-allquip-ex-commodo-7Gx {
+  max-width: 38.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #acacac;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-350-tUk .group-354-FyW .auto-group-dtfz-oQg {
+  width: 100%;
+  height: 3.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-350-tUk .group-354-FyW .auto-group-dtfz-oQg .engineering-physics-MBJ {
+  margin: 0.3rem 19.4rem 0rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ff7426;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-350-tUk .group-354-FyW .auto-group-dtfz-oQg .group-353-fxg {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-350-tUk .group-354-FyW .auto-group-dtfz-oQg .group-353-fxg .auto-group-2bst-dec {
+  margin-right: 1.2rem;
+  box-sizing: border-box;
+  padding: 0.8rem;
+  height: 100%;
+  background-color: #f9f9f9;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-350-tUk .group-354-FyW .auto-group-dtfz-oQg .group-353-fxg .auto-group-2bst-dec .instagramlogo2016-1-aZr {
+  width: 2.2rem;
+  height: 2.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-350-tUk .group-354-FyW .auto-group-dtfz-oQg .group-353-fxg .auto-group-vyyl-7Zn {
+  box-sizing: border-box;
+  padding: 0.8rem;
+  height: 100%;
+  background-color: #f9f9f9;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-350-tUk .group-354-FyW .auto-group-dtfz-oQg .group-353-fxg .auto-group-vyyl-7Zn .item-174857-1-frC {
+  width: 2.2rem;
+  height: 2.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-351-LxL {
+  box-sizing: border-box;
+  padding: 1.4rem 1.3rem 1.9rem 1.3rem;
+  width: 49rem;
+  height: 45.7rem;
+  position: absolute;
+  left: 123.5rem;
+  top: 72.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 2.5rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 1.4rem;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-351-LxL .group-339-q8Q {
+  margin-bottom: 1.5rem;
+  width: 100%;
+  background-color: #b17373;
+  border-radius: 1.4rem;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-351-LxL .group-339-q8Q .auto-group-gctc-n3e {
+  width: 46.4rem;
+  height: 23.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-351-LxL .group-354-3kG {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-351-LxL .group-354-3kG .auto-group-zom6-c2g {
+  box-sizing: border-box;
+  padding-bottom: 1.5rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-351-LxL .group-354-3kG .auto-group-zom6-c2g .auto-group-eepu-MFA {
+  margin-bottom: 1.5rem;
+  width: 27.5rem;
+  height: 5.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-351-LxL .group-354-3kG .auto-group-zom6-c2g .auto-group-eepu-MFA .cynthia-a-nelson-VMN {
+  width: 17.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-351-LxL .group-354-3kG .auto-group-zom6-c2g .auto-group-eepu-MFA .professor-george-brown-college-QUL {
+  width: 27.5rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0;
+  top: 2.9rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #858585;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-351-LxL .group-354-3kG .auto-group-zom6-c2g .ut-enim-ad-minim-veniam-quis-nost-exercitation-ullamco-laboris-nisi-ut-allquip-ex-commodo-6MA {
+  max-width: 38.3rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #acacac;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-351-LxL .group-354-3kG .auto-group-fphn-zSY {
+  width: 100%;
+  height: 3.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-351-LxL .group-354-3kG .auto-group-fphn-zSY .engineering-physics-YDA {
+  margin: 0.3rem 19.4rem 0rem 0rem;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #ff7426;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-351-LxL .group-354-3kG .auto-group-fphn-zSY .group-353-fHn {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-351-LxL .group-354-3kG .auto-group-fphn-zSY .group-353-fHn .auto-group-47tg-R24 {
+  margin-right: 1.2rem;
+  box-sizing: border-box;
+  padding: 0.8rem;
+  height: 100%;
+  background-color: #f9f9f9;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-351-LxL .group-354-3kG .auto-group-fphn-zSY .group-353-fHn .auto-group-47tg-R24 .instagramlogo2016-1-xXn {
+  width: 2.2rem;
+  height: 2.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-351-LxL .group-354-3kG .auto-group-fphn-zSY .group-353-fHn .auto-group-xuyi-Um2 {
+  box-sizing: border-box;
+  padding: 0.8rem;
+  height: 100%;
+  background-color: #f9f9f9;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-351-LxL .group-354-3kG .auto-group-fphn-zSY .group-353-fHn .auto-group-xuyi-Um2 .item-174857-1-RwA {
+  width: 2.2rem;
+  height: 2.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .our-tracks-v7E {
+  width: 24.5rem;
+  height: 7rem;
+  position: absolute;
+  left: 83.3rem;
+  top: 55.9rem;
+  font-size: 5rem;
+  font-weight: 600;
+  line-height: 1.4;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Jost, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .lorem-ipsum-is-simply-dummy-text-of-the-printing-DME {
+  width: 50.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 70.7rem;
+  top: 62.8rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #8a8a8a;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .what-students-say-WbE {
+  width: 41.3rem;
+  height: 6.7rem;
+  position: absolute;
+  left: 75.1rem;
+  top: 0;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 1.675;
+  letter-spacing: 0.08rem;
+  text-transform: capitalize;
+  color: #040c26;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .lorem-ipsum-is-simply-dummy-text-of-the-printing-oKS {
+  width: 50.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 70.7rem;
+  top: 6.9rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #8a8a8a;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-348-uNU {
+  width: 130rem;
+  height: 35.2rem;
+  position: absolute;
+  left: 31rem;
+  top: 14.9rem;
+  display: flex;
+  align-items: flex-start;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-348-uNU .group-74-2T6 {
+  margin-right: 2.5rem;
+  width: 41.7rem;
+  height: 25.8rem;
+  position: relative;
+  box-shadow: 0 0.4rem 8.8rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-348-uNU .group-74-2T6 .rectangle-29-ktt {
+  width: 41.6rem;
+  height: 25.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 8.8rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-348-uNU .group-74-2T6 .teachings-of-the-great-explore-of-truth-the-master-builder-of-human-happiness-no-one-rejectsdislikes-or-avoids-pleasure-itself-pleasure-itself-5RN {
+  width: 37.1rem;
+  height: 11.9rem;
+  position: absolute;
+  left: 3.2rem;
+  top: 3.2rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.5649999317;
+  letter-spacing: 0.038rem;
+  color: #acacac;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-348-uNU .group-74-2T6 .group-72-ttc {
+  width: 16.1rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 3.2rem;
+  top: 17.6rem;
+  display: flex;
+  align-items: center;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-348-uNU .group-74-2T6 .group-72-ttc .ellipse-34-q3A {
+  margin-right: 1.6rem;
+  width: 4.7rem;
+  height: 4.7rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-34-bg-Toa.png');
+  border-radius: 2.35rem;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-348-uNU .group-74-2T6 .group-72-ttc .group-71-YCU {
+  width: 9.8rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-348-uNU .group-74-2T6 .group-72-ttc .group-71-YCU .finlay-kirk-5iC {
+  width: 8.3rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.7rem;
+  font-weight: 500;
+  line-height: 1.5649999731;
+  letter-spacing: 0.034rem;
+  color: #353535;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-348-uNU .group-74-2T6 .group-72-ttc .group-71-YCU .web-developper-bRe {
+  width: 9.8rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0;
+  top: 2.6rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.5649999472;
+  letter-spacing: 0.026rem;
+  color: #8e8e8e;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-348-uNU .auto-group-gbgx-44L {
+  margin-right: 2.4rem;
+  width: 41.7rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-348-uNU .auto-group-gbgx-44L .group-73-Bue {
+  margin-bottom: 8rem;
+  width: 100%;
+  height: 25.8rem;
+  position: relative;
+  box-shadow: 0 0.4rem 8.8rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-348-uNU .auto-group-gbgx-44L .group-73-Bue .rectangle-29-L1r {
+  width: 41.6rem;
+  height: 25.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 8.8rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-348-uNU .auto-group-gbgx-44L .group-73-Bue .complete-account-of-the-system-and-expound-the-actual-contrary-to-popular-belief-lorem-ipsum-is-not-simply-random-text-it-has-roots-3wr {
+  width: 34.2rem;
+  height: 11.9rem;
+  position: absolute;
+  left: 3.2rem;
+  top: 3.2rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.5649999317;
+  letter-spacing: 0.038rem;
+  color: #acacac;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-348-uNU .auto-group-gbgx-44L .group-73-Bue .group-72-J76 {
+  width: 23.7rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 3.2rem;
+  top: 17.6rem;
+  display: flex;
+  align-items: flex-start;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-348-uNU .auto-group-gbgx-44L .group-73-Bue .group-72-J76 .ellipse-34-q72 {
+  margin-right: 1.6rem;
+  width: 4.7rem;
+  height: 4.7rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-34-bg.png');
+  border-radius: 2.35rem;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-348-uNU .auto-group-gbgx-44L .group-73-Bue .group-72-J76 .group-71-kDz {
+  width: 17.4rem;
+  height: 4.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-348-uNU .auto-group-gbgx-44L .group-73-Bue .group-72-J76 .group-71-kDz .dannette-p-cervantes-hf2 {
+  width: 17.4rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.7rem;
+  font-weight: 500;
+  line-height: 1.5649999731;
+  letter-spacing: 0.034rem;
+  color: #353535;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-348-uNU .auto-group-gbgx-44L .group-73-Bue .group-72-J76 .group-71-kDz .web-design-19v {
+  width: 7.2rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0;
+  top: 2.4rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.5649999472;
+  letter-spacing: 0.026rem;
+  color: #8e8e8e;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-348-uNU .auto-group-gbgx-44L .group-76-sC8 {
+  margin: 0rem 14.6rem 0rem 14.5rem;
+  width: calc(100% - 29.1rem);
+  display: flex;
+  column-gap: 1.5rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-348-uNU .auto-group-gbgx-44L .group-76-sC8 .rectangle-32-moJ {
+  width: 3.9rem;
+  height: 1.2rem;
+  background-color: #4d2c5e;
+  border-radius: 3.2rem;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-348-uNU .auto-group-gbgx-44L .group-76-sC8 .ellipse-37-KK2 {
+  width: 1.4rem;
+  height: 1.4rem;
+  background-color: #c2c2c2;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-348-uNU .auto-group-gbgx-44L .group-76-sC8 .ellipse-36-FiU {
+  width: 1.4rem;
+  height: 1.4rem;
+  background-color: #c2c2c2;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-348-uNU .auto-group-gbgx-44L .group-76-sC8 .ellipse-39-Cdi {
+  width: 1.4rem;
+  height: 1.4rem;
+  background-color: #c2c2c2;
+  border-radius: 0.7rem;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-348-uNU .group-75-wLQ {
+  width: 41.7rem;
+  height: 25.8rem;
+  position: relative;
+  box-shadow: 0 0.4rem 8.8rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-348-uNU .group-75-wLQ .rectangle-29-5xQ {
+  width: 41.6rem;
+  height: 25.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 8.8rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-348-uNU .group-75-wLQ .there-are-many-variations-of-passages-of-lorem-ipsum-available-but-the-majority-have-suffered-alteration-in-some-form-by-injected-humour-chS {
+  width: 37rem;
+  height: 11.9rem;
+  position: absolute;
+  left: 2.7rem;
+  top: 3.2rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.5649999317;
+  letter-spacing: 0.038rem;
+  color: #acacac;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-348-uNU .group-75-wLQ .group-72-4JY {
+  width: 20.1rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 2.7rem;
+  top: 17.6rem;
+  display: flex;
+  align-items: flex-end;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-348-uNU .group-75-wLQ .group-72-4JY .ellipse-34-nkL {
+  margin-right: 1.5rem;
+  width: 4.7rem;
+  height: 4.7rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-34-bg-8hr.png');
+  border-radius: 2.35rem;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-348-uNU .group-75-wLQ .group-72-4JY .group-71-7Xi {
+  width: 13.9rem;
+  height: 4.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-348-uNU .group-75-wLQ .group-72-4JY .group-71-7Xi .clara-r-altman-GQc {
+  width: 13.9rem;
+  height: 2.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.7rem;
+  font-weight: 500;
+  line-height: 1.5649999731;
+  letter-spacing: 0.034rem;
+  color: #353535;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-348-uNU .group-75-wLQ .group-72-4JY .group-71-7Xi .uiux-design-agC {
+  width: 9rem;
+  height: 2.1rem;
+  position: absolute;
+  left: 0;
+  top: 2.5rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.5649999472;
+  letter-spacing: 0.026rem;
+  color: #8e8e8e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .ellipse-27-45a {
+  width: 96rem;
+  height: 77.8rem;
+  position: absolute;
+  left: 0;
+  top: 4.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .ellipse-27-bLQ {
+  width: 96rem;
+  height: 77.8rem;
+  position: absolute;
+  left: 169.3rem;
+  top: 23.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .group-ivp {
+  width: 16.8036rem;
+  height: 16.2619rem;
+  position: absolute;
+  left: 11.9rem;
+  top: 40.3125rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-pjnc-9RN .casual-life-3d-orange-planet-with-disk-1-fLG {
+  width: 12rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 165.4rem;
+  top: 48.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-yzfi-mu6 {
+  margin: 0rem 12.1rem 1rem 19.5rem;
+  width: calc(100% - 31.6rem);
+  height: 54.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-yzfi-mu6 .group-355-6Ag {
+  box-sizing: border-box;
+  padding: 25.2rem 15.636rem 4.19rem 113.4rem;
+  width: 143.2rem;
+  height: 42.9rem;
+  position: absolute;
+  left: 4.9rem;
+  top: 0;
+  background-color: #4d2c5e;
+  border-radius: 1.4rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/auto-group-kncu.png');
+}
+.online-course-R4Y .auto-group-yzfi-mu6 .group-355-6Ag .casual-life-3d-idea-lamp-2-CDi {
+  width: 14.164rem;
+  height: 13.51rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-yzfi-mu6 .group-tcL {
+  width: 16.8036rem;
+  height: 16.2619rem;
+  position: absolute;
+  left: 18.2rem;
+  top: 28.7125rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-yzfi-mu6 .ellipse-28-q1n {
+  width: 35rem;
+  height: 28.4rem;
+  position: absolute;
+  left: 0;
+  top: 21.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-yzfi-mu6 .ellipse-29-N1i {
+  width: 35rem;
+  height: 28.4rem;
+  position: absolute;
+  left: 125.4rem;
+  top: 26.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.online-course-R4Y .auto-group-luwc-HuN {
+  width: 100%;
+  height: 41.1rem;
+  position: relative;
+  background-color: #fdf8ee;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-luwc-HuN .footer-Epc {
+  width: 192rem;
+  height: 33.6rem;
+  position: absolute;
+  left: 0;
+  top: 4.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.online-course-R4Y .auto-group-luwc-HuN .footer-Epc .auto-group-nrtn-n5S {
+  margin: 0rem 24.9rem 6.4rem 19.6rem;
+  width: calc(100% - 44.5rem);
+  height: 22.8rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-luwc-HuN .footer-Epc .auto-group-nrtn-n5S .lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industrys-standard-dummy-a-type-specimen-book-J3n {
+  margin: 0rem 11.8rem 1.1rem 0rem;
+  max-width: 31.8rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.6315789474;
+  color: #5f5f5f;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-luwc-HuN .footer-Epc .auto-group-nrtn-n5S .group-85-LFN {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-luwc-HuN .footer-Epc .auto-group-nrtn-n5S .group-85-LFN .company-sm6 {
+  margin-bottom: 2.8rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #00052e;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-luwc-HuN .footer-Epc .auto-group-nrtn-n5S .group-85-LFN .about-us-bwz {
+  margin-bottom: 2.6rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #5f5f5f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-luwc-HuN .footer-Epc .auto-group-nrtn-n5S .group-85-LFN .how-to-work-Leg {
+  margin-bottom: 2.6rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #5f5f5f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-luwc-HuN .footer-Epc .auto-group-nrtn-n5S .group-85-LFN .populer-course-Ukt {
+  margin: 0rem 0rem 2.6rem 0.1rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #5f5f5f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-luwc-HuN .footer-Epc .auto-group-nrtn-n5S .group-85-LFN .service-bqW {
+  margin-left: 0.1rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #5f5f5f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-luwc-HuN .footer-Epc .auto-group-nrtn-n5S .auto-group-gmfs-YEx {
+  box-sizing: border-box;
+  padding-left: 15.4rem;
+  height: 100%;
+  display: flex;
+  column-gap: 15.4rem;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-luwc-HuN .footer-Epc .auto-group-nrtn-n5S .auto-group-gmfs-YEx .group-93-Gwe {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-luwc-HuN .footer-Epc .auto-group-nrtn-n5S .auto-group-gmfs-YEx .group-93-Gwe .courses-2fv {
+  margin-bottom: 2.8rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #00052e;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-luwc-HuN .footer-Epc .auto-group-nrtn-n5S .auto-group-gmfs-YEx .group-93-Gwe .categories-aBe {
+  margin-bottom: 2.6rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #5f5f5f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-luwc-HuN .footer-Epc .auto-group-nrtn-n5S .auto-group-gmfs-YEx .group-93-Gwe .ofline-course-K9E {
+  margin-bottom: 2.5rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #5f5f5f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-luwc-HuN .footer-Epc .auto-group-nrtn-n5S .auto-group-gmfs-YEx .group-93-Gwe .vidio-course-4Mi {
+  margin-left: 0.1rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #5f5f5f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-luwc-HuN .footer-Epc .auto-group-nrtn-n5S .auto-group-gmfs-YEx .group-91-bcY {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-luwc-HuN .footer-Epc .auto-group-nrtn-n5S .auto-group-gmfs-YEx .group-91-bcY .support-M5v {
+  margin-bottom: 2.8rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #00052e;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-luwc-HuN .footer-Epc .auto-group-nrtn-n5S .auto-group-gmfs-YEx .group-91-bcY .faq-UwE {
+  margin-bottom: 2.6rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #5f5f5f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-luwc-HuN .footer-Epc .auto-group-nrtn-n5S .auto-group-gmfs-YEx .group-91-bcY .help-center-x5i {
+  margin-bottom: 2.5rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #5f5f5f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-luwc-HuN .footer-Epc .auto-group-nrtn-n5S .auto-group-gmfs-YEx .group-91-bcY .career-V5e {
+  margin: 0rem 0rem 2.5rem 0.1rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #5f5f5f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-luwc-HuN .footer-Epc .auto-group-nrtn-n5S .auto-group-gmfs-YEx .group-91-bcY .privacy-cRA {
+  margin-left: 0.1rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #5f5f5f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-luwc-HuN .footer-Epc .auto-group-nrtn-n5S .auto-group-gmfs-YEx .group-92-wiL {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-luwc-HuN .footer-Epc .auto-group-nrtn-n5S .auto-group-gmfs-YEx .group-92-wiL .contac-info-6r8 {
+  margin-bottom: 2.8rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.1725;
+  color: #00052e;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-luwc-HuN .footer-Epc .auto-group-nrtn-n5S .auto-group-gmfs-YEx .group-92-wiL .item-0913-705-3875-Suz {
+  margin-bottom: 2.6rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #5f5f5f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-luwc-HuN .footer-Epc .auto-group-nrtn-n5S .auto-group-gmfs-YEx .group-92-wiL .elizabethjjourrapidecom-mhN {
+  margin-bottom: 2.6rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #5f5f5f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-luwc-HuN .footer-Epc .auto-group-nrtn-n5S .auto-group-gmfs-YEx .group-92-wiL .skinner-hollow-road-days-creek-or-97429-6zY {
+  max-width: 22.3rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #5f5f5f;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-luwc-HuN .footer-Epc .line-4-RG8 {
+  margin-bottom: 2rem;
+  width: 100%;
+  height: 0.1rem;
+  background-color: #b6b6b6;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-luwc-HuN .footer-Epc .bookstore-all-right-reserved-2022-ZdE {
+  margin-right: 0.9rem;
+  font-size: 1.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  color: #5f5f5f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-luwc-HuN .group-356-gxk {
+  width: 18.5rem;
+  height: 5.1848rem;
+  position: absolute;
+  left: 19.6rem;
+  top: 3.1rem;
+  display: flex;
+  align-items: center;
+}
+.online-course-R4Y .auto-group-luwc-HuN .group-356-gxk .group-RQY {
+  margin-right: 0.7205rem;
+  width: 5.8795rem;
+  height: 5.1848rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.online-course-R4Y .auto-group-luwc-HuN .group-356-gxk .book-store-ZFr {
+  margin-top: 0.1152rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3500000636;
+  color: #1c1c1c;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

@@ -1,0 +1,275 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 160rem;
+}.item-1-Ami {
+  width: 100%;
+  height: 120rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #4d2d5e;
+}
+.item-1-Ami .group-378-57z {
+  width: 166.0024rem;
+  height: 117.5153rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.item-1-Ami .group-378-57z .auto-group-qwug-bME {
+  margin: 0rem 0rem 21.983rem 8.32rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.item-1-Ami .group-378-57z .auto-group-qwug-bME .group-igk {
+  margin-right: 40.3126rem;
+  width: 16.3274rem;
+  height: 14.3374rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item-1-Ami .group-378-57z .auto-group-qwug-bME .group-3yv {
+  margin: 0rem 72.165rem 5.283rem 0rem;
+  width: 13.9153rem;
+  height: 18.6545rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item-1-Ami .group-378-57z .auto-group-qwug-bME .group-z8U {
+  margin-bottom: 0.8234rem;
+  width: 14.9624rem;
+  height: 18.474rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item-1-Ami .group-378-57z .group-7it {
+  margin: 0rem 152.222rem 5.036rem 0rem;
+  width: 13.7799rem;
+  height: 21.2043rem;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-Vnt.png');
+  flex-shrink: 0;
+}
+.item-1-Ami .group-378-57z .group-7it .vector-SFN {
+  width: 2.3008rem;
+  height: 1.112rem;
+  position: absolute;
+  left: 0;
+  top: 2.2774rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item-1-Ami .group-378-57z .group-7it .vector-MNL {
+  width: 2.3024rem;
+  height: 1.1136rem;
+  position: absolute;
+  left: 0.7263rem;
+  top: 6.6742rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item-1-Ami .group-378-57z .group-7it .vector-tdA {
+  width: 2.3024rem;
+  height: 1.1136rem;
+  position: absolute;
+  left: 2.8527rem;
+  top: 11.071rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item-1-Ami .group-378-57z .group-7it .vector-dKr {
+  width: 2.3008rem;
+  height: 1.112rem;
+  position: absolute;
+  left: 4.9791rem;
+  top: 15.4694rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item-1-Ami .group-378-57z .group-7it .vector-Mme {
+  width: 1.1504rem;
+  height: 0.5552rem;
+  position: absolute;
+  left: 0.4559rem;
+  top: 3.7334rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item-1-Ami .group-378-57z .group-7it .vector-Vsr {
+  width: 1.1504rem;
+  height: 0.5568rem;
+  position: absolute;
+  left: 1.1663rem;
+  top: 5.2038rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item-1-Ami .group-378-57z .group-7it .vector-2Mz {
+  width: 1.1504rem;
+  height: 0.5552rem;
+  position: absolute;
+  left: 2.5855rem;
+  top: 8.1382rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item-1-Ami .group-378-57z .group-7it .vector-maU {
+  width: 1.1504rem;
+  height: 0.5568rem;
+  position: absolute;
+  left: 3.2959rem;
+  top: 9.6086rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item-1-Ami .group-378-57z .group-7it .vector-uwa {
+  width: 1.1504rem;
+  height: 0.5552rem;
+  position: absolute;
+  left: 4.7151rem;
+  top: 12.543rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item-1-Ami .group-378-57z .group-7it .vector-43n {
+  width: 1.152rem;
+  height: 0.5568rem;
+  position: absolute;
+  left: 5.4255rem;
+  top: 14.0134rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item-1-Ami .group-378-57z .group-xex {
+  margin: 0rem 0rem 20.115rem 148.764rem;
+  width: 10.126rem;
+  height: 10.125rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item-1-Ami .group-378-57z .auto-group-grr8-VPz {
+  margin: 0rem 2.393rem 0rem 4.8rem;
+  width: calc(100% - 7.1928rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.item-1-Ami .group-378-57z .auto-group-grr8-VPz .group-RYY {
+  margin: 0rem 131.894rem 0.44rem 0rem;
+  width: 14.3456rem;
+  height: 14.6753rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item-1-Ami .group-378-57z .auto-group-grr8-VPz .group-9jS {
+  width: 12.5696rem;
+  height: 13.8353rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.item-1-Ami .group-357-VoJ {
+  width: 78.8rem;
+  height: 210.5693rem;
+  position: absolute;
+  left: 10rem;
+  top: 10rem;
+  border-radius: 2rem;
+}
+.item-1-Ami .group-357-VoJ .frame-1-F1n {
+  width: 78.8rem;
+  height: 210.5693rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.item-1-Ami .group-379-yTa {
+  width: 43.4137rem;
+  height: 116.01rem;
+  position: absolute;
+  left: 100.3932rem;
+  top: 2rem;
+  border-radius: 1.5rem;
+}
+.item-1-Ami .group-379-yTa .frame-1-K1e {
+  width: 43.4137rem;
+  height: 116.01rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.5rem;
+}
+.item-1-Ami .group-3TS {
+  width: 11.1894rem;
+  height: 10.8287rem;
+  position: absolute;
+  left: 3.6rem;
+  top: 82.0747rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item-1-Ami .group-Zgg {
+  width: 5.9767rem;
+  height: 7.5148rem;
+  position: absolute;
+  left: 87.6rem;
+  top: 64.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item-1-Ami .group-5uv {
+  width: 7.9746rem;
+  height: 9.2703rem;
+  position: absolute;
+  left: 94.6635rem;
+  top: 11rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.item-1-Ami .casual-life-3d-orange-planet-with-disk-1-1Yg {
+  width: 12rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 141.5rem;
+  top: 86.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.item-1-Ami .group-v9r {
+  width: 5.2781rem;
+  height: 6.8757rem;
+  position: absolute;
+  left: 7.0526rem;
+  top: 24.0644rem;
+  object-fit: contain;
+  vertical-align: top;
+}
