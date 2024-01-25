@@ -1,3 +1,23 @@
+ediv{
+	 width: 20.7rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 14.2rem;
+  top: 43.4rem;
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 1.1725;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ff7426;
+  border-radius: 9.6rem;
+}
+
+
 #dy{
 	 border: none;
   background-color:#4d2c5e  ;
