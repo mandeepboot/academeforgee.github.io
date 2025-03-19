@@ -2781,3 +2781,52 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+/* Default Styles (For Larger Screens) */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* Media Queries for Mobile Devices */
+@media only screen and (max-width: 768px) {
+    /* Styles for tablets and smaller screens */
+    .container {
+        width: 90%;
+    }
+
+    header {
+        padding: 10px;
+        text-align: center;
+    }
+
+    .navbar {
+        display: block;
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    /* Styles for mobile phones */
+    body {
+        font-size: 14px;
+    }
+
+    .container {
+        width: 100%;
+    }
+
+    .navbar {
+        display: none;  /* You can show a mobile menu instead */
+    }
+
+    footer {
+        text-align: center;
+        font-size: 12px;
+    }
+}
